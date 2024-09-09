@@ -1,0 +1,112 @@
+P:brasil
+D:E o maior pais da America do Sul.
+D:Famoso pelo carnaval do Rio de Janeiro.
+D:Lingua oficial e o portugues.
+D:Tem a maior floresta tropical do mundo.
+D:Foi sede da copa do mundo em 2014.
+D:E o pais do futebol e de Pele.
+P:japao
+D:Pais insular no leste da Asia.
+D:Conhecido pela tecnologia avancada.
+D:A capital e Toquio.
+D:Famoso por suas cerejeiras.
+D:Tem o Monte Fuji.
+D:Artes marciais como Judo e Karate sao populares aqui.
+P:franca
+D:Localizado na Europa Ocidental.
+D:Capital e Paris.
+D:Famoso pela Torre Eiffel.
+D:Conhecido por sua culinaria e vinhos.
+D:E o pais do Louvre e da Mona Lisa.
+D:A lingua oficial e o Frances.
+P:italia
+D:Pais europeu com formato de bota.
+D:Capital e Roma.
+D:Famoso pelo Coliseu e pela pizza.
+D:O Vaticano esta dentro de sua capital.
+D:Tem cidades como Veneza e Milao.
+D:Leonardo da Vinci e Michelangelo nasceram aqui.
+P:alemanha
+D:Localizado na Europa Central.
+D:Capital e Berlim.
+D:Conhecido por sua cerveja e salsichas.
+D:Famoso pelo Muro de Berlim.
+D:E o pais do Oktoberfest.
+D:Lingua oficial e o Alemao.
+P:australia
+D:Pais e continente no Hemisferio Sul.
+D:Famoso por cangurus e coalas.
+D:Capital e Camberra.
+D:Opera House e um icone em Sydney.
+D:Conhecido pela Grande Barreira de Coral.
+D:Realiza o Grand Slam de tenis em Melbourne.
+P:egito
+D:Localizado no Norte da Africa.
+D:Famoso pelas piramides de Gize.
+D:O Rio Nilo atravessa o pais.
+D:Capital e Cairo.
+D:Tem uma das civilizacoes mais antigas.
+D:Lingua oficial e o Arabe.
+P:canada
+D:Pais da America do Norte.
+D:Capital e Ottawa.
+D:Conhecido pelas Cataratas do Niagara.
+D:Tem duas linguas oficiais: Ingles e Frances.
+D:Pais com vastas florestas e lagos.
+D:Famoso pelo hockey no gelo.
+P:china
+D:Pais mais populoso do mundo.
+D:Capital e Pequim.
+D:Conhecido pela Grande Muralha.
+D:Famoso por sua culinaria variada.
+D:Lingua oficial e o Mandarin.
+D:E um dos maiores exportadores do mundo.
+P:argentina
+D:Localizado na America do Sul.
+D:Famoso pelo tango.
+D:Capital e Buenos Aires.
+D:Conhecido por suas carnes e vinhos.
+D:Tem as Cataratas do Iguacu.
+D:Lar do jogador de futebol Lionel Messi.
+P:russia
+D:Maior pais do mundo em area.
+D:Capital e Moscou.
+D:Famoso pelo Kremlin e pela Praca Vermelha.
+D:Transiberiana e a maior linha de trem do mundo.
+D:Lingua oficial e o Russo.
+D:Conhecido pelo inverno rigoroso e a Siberia.
+P:espanha
+D:Localizado na Europa Ocidental.
+D:Capital e Madri.
+D:Famoso pelas touradas e pela paella.
+D:Tem a famosa Sagrada Familia em Barcelona.
+D:Lingua oficial e o Espanhol.
+D:Realiza a festa de La Tomatina.
+P:india
+D:Segundo pais mais populoso do mundo.
+D:Capital e Nova Deli.
+D:Famoso pelo Taj Mahal.
+D:Lingua oficial inclui Hindi e Ingles.
+D:Conhecido por sua rica cultura e diversidade.
+D:E o pais do Yoga e do cinema Bollywood.
+P:mexico
+D:Localizado na America do Norte.
+D:Capital e Cidade do Mexico.
+D:Famoso por sua culinaria, como tacos e guacamole.
+D:Tem as antigas ruinas Maias e Astecas.
+D:Lingua oficial e o Espanhol.
+D:Celebrado pelo Dia dos Mortos.
+P:grecia
+D:Localizado no Sudeste da Europa.
+D:Capital e Atenas.
+D:Famoso pela Acropole e pelo Partenon.
+D:Berco da democracia e dos Jogos Olimpicos.
+D:Lingua oficial e o Grego.
+D:Conhecido por suas ilhas, como Santorini e Mykonos.
+P:turquia
+D:Localizado entre a Europa e a Asia.
+D:Capital e Ancara, mas Istambul e a maior cidade.
+D:Famoso pela Mesquita Azul e pelo Bazar.
+D:Conhecido por sua rica historia e cultura Otomana.
+D:Lingua oficial e o Turco.
+D:E o pais do Kebab e do banho turco.
