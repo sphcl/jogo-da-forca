@@ -1,5 +1,4 @@
 # Jogo da Forca
-### Este repositório contém um jogo da forca desenvolvido em Python. O objetivo do jogo é adivinhar a palavra secreta escolhendo letras dentro de um número limitado de tentativas.
 
 
 #### Funcionalidades:
